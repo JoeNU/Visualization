@@ -1,0 +1,7 @@
+**/.venv/
+**/output/
+**/references/
+**/.frames/
+/.DS_Store
+__pycache__/
+*.pyc
