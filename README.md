@@ -6,6 +6,10 @@ A collection of code-based visualization experiments, motion graphics, and gener
 
 [Open the GitHub Pages site](https://joenu.github.io/Visualization/)
 
+[![Play the neural distillation demo](projects/neural-distillation-video/media/poster.jpg)](https://joenu.github.io/Visualization/)
+
+Click the preview above to play the demo video on the web.
+
 ## Projects
 
 - [Neural Distillation Video](projects/neural-distillation-video/) - procedural Python/FFmpeg renderer for neon AI research explainer videos.
