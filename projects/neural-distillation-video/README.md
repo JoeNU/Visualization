@@ -2,6 +2,12 @@
 
 Code for generating a short AI research explainer video in the style of the referenced X clip: dark technical background, neon data streams, model-family cards, a central distillation orb, an animated MMLU chart, a final paper call-to-action, and a synthesized sci-fi soundtrack.
 
+## Demo
+
+[Play the rendered MP4](media/distillation_style.mp4)
+
+![Preview contact sheet](media/contact_sheet_slow.jpg)
+
 ## Requirements
 
 - Python 3.11+
